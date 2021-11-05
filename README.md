@@ -8,3 +8,7 @@
 :blue_book: 4.11.2021
 - html and css practice
 - padding, margin, font properties in css
+
+:blue_book: 4.11.2021
+- html and css practice
+- working with font properties
