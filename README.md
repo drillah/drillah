@@ -12,3 +12,7 @@
 :blue_book: 5.11.2021
 - html and css practice
 - working with font properties
+
+:blue_book: 7.11.2021
+- in-depht css (not expert yet)
+- box model, box sizing etc.
